@@ -6,8 +6,8 @@
     "examples/amaranth-demo",
     "examples/advanced-demo"
   ],
-  "name": "gatsby-starter-advanced",
-  "description": "GatsbyJS starter that includes examples for advanced use cases.",
+  "name": "cqc-site",
+  "description": "Chiswick Quay Contracts.",
   "version": "4.17.1",
   "author": "Ruben Harutyunyan <vagr9k@gmail.com>",
   "keywords": [
