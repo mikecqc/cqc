@@ -6,14 +6,14 @@
     "examples/amaranth-demo",
     "examples/advanced-demo"
   ],
-  "name": "cqc-site",
+  "name": "cqc",
   "description": "Chiswick Quay Contracts.",
   "version": "4.17.1",
-  "author": "Ruben Harutyunyan <vagr9k@gmail.com>",
+  "author": "Ruben Harutyunyan <agapper@gmail.com>",
   "keywords": [
     "gatsby",
     "gatsby-starter",
-    "vagr9k"
+    "agapper"
   ],
   "license": "MIT",
   "main": "n/a",
