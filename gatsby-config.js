@@ -3,9 +3,7 @@ module.exports = {
     "gatsby-plugin-styled-components",
     {
       resolve: "gatsby-theme-amaranth",
-      options: {
-        basePath: `/blog`,
-      },
+      options: {},
     },
   ],
 };
